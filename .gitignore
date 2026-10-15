@@ -1,0 +1,7 @@
+# Na GitHub ide samo ono što igra treba (originalne slike i bilješke ostaju na računalu)
+/*
+!.gitignore
+!index.html
+!igra.js
+!slike/
+slike/hajduk-grb.png
